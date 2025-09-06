@@ -1,0 +1,5 @@
+# Original research files (audio recordings, raw data)
+PDM Project Research/
+*.m4a
+*.pdf
+.DS_Store

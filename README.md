@@ -92,6 +92,10 @@ PDM Project/
     └── interview-saurabh-shukla-transcript.txt
 ```
 
+## Final Consolidated Report
+
+- `weekly-progress/final-report.md`
+
 ## Key Findings
 
 | Metric | Value |
